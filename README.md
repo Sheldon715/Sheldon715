@@ -121,7 +121,7 @@ PRODUCT .......... Data modelling, RBAC, OAuth 2.0, JWT, Stripe,
 
 ![Sheldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheldon715&show_icons=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0b0f14&cache_seconds=86400)
 
-![Contribution snake](https://raw.githubusercontent.com/Sheldon715/Sheldon715/output/github-contribution-grid-snake-dark.svg)
+![Contribution snake](https://raw.githubusercontent.com/Sheldon715/Sheldon715/gh-pages/github-contribution-grid-snake-dark.svg)
 
 ```text
 sheldon715@localhost:~$ echo "build useful software"

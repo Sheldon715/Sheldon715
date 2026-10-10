@@ -1,0 +1,9 @@
+<svg width="1000" height="62" viewBox="0 0 1000 62" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">System status footer</title>
+  <desc id="desc">Colors allocated, emoji disabled, personal data minimized.</desc>
+  <path d="M0 31H205" stroke="#1F6F4A" stroke-width="4"/>
+  <path d="M795 31H1000" stroke="#1F6F4A" stroke-width="4"/>
+  <path d="M0 38H205" stroke="#123D2B" stroke-width="4"/>
+  <path d="M795 38H1000" stroke="#123D2B" stroke-width="4"/>
+  <text x="500" y="36" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" text-anchor="middle" letter-spacing="2">COLORS ALLOCATED: 2 // EMOJI: NONE // PERSONAL_DATA: MINIMAL</text>
+</svg>

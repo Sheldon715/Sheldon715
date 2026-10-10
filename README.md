@@ -1,32 +1,23 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sheldon715/Sheldon715/main/header.svg" alt="SHELDON715.SYS boot sequence" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sheldon715/Sheldon715/main/header.svg?v=2" alt="SHELDON715.SYS boot sequence" width="100%" />
 </p>
 
-# SHELDON715.SYS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sheldon715/Sheldon715/main/tagline.svg?v=2" alt="Building useful software from interface to infrastructure" width="88%" />
+</p>
 
-```text
-sheldon715@localhost:~$ whoami
-
-  ID .............. Sheldon Liu
-  DOMAIN .......... AI-enabled full-stack engineering
-  MODE ............ product -> system -> release
-  BASE ............ Melbourne, Australia
-  STUDY ........... Computer Science @ University of Melbourne
-  STATUS .......... open to software engineering opportunities
-```
-
-> I build AI products from interface to infrastructure.
-
-I turn product ideas into reliable web and Android systems by connecting thoughtful interfaces, backend services, data, retrieval, and deployment.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sheldon715/Sheldon715/main/whoami.svg?v=2" alt="Sheldon Liu whoami terminal profile" width="100%" />
+</p>
 
 ## `~/system`  // operating principles
 
 ```text
-[BUILD]
-  start       understand the user need and the product boundary
-  connect     move from interface to service, data, AI, and deployment
-  verify      test the path, measure the behavior, inspect the failure
-  ship        deliver a useful system that can be improved in public
+[KERNEL]
+  translate     turn a product need into a dependable system
+  connect       move from interface to service, data, AI, and deploy
+  verify        test the path, measure behavior, inspect failure
+  rebuild       keep the useful parts and improve the weak ones
 
 [AI POLICY]
   language_models  interpret and explain
@@ -37,93 +28,30 @@ I turn product ideas into reliable web and Android systems by connecting thought
 
 ## `~/stack`  // loaded modules
 
-```text
-AI / RAG ........ LLM APIs, conversational AI, recommendations, Qdrant,
-                  retrieval design, evaluation, prompt engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,fastapi,kotlin,flutter,dart,postgres,mongodb,prisma,redis,aws,vercel,cloudflare&perline=8" alt="Technology stack: Next.js, React, TypeScript, JavaScript, Node.js, FastAPI, Kotlin, Flutter, Dart, PostgreSQL, MongoDB, Prisma, Redis, AWS, Vercel, Cloudflare" />
+</p>
 
-WEB ............. Next.js, React, TypeScript, JavaScript, Node.js,
-                  FastAPI, REST APIs, Server-Sent Events
+`AI / RAG` · `LLM APIs` · `Qdrant` · `recommendations` · `evaluation` · `prompt engineering`
 
-ANDROID .......... Kotlin, Android Native, Jetpack Compose, Java
+`web systems` · `Android` · `REST APIs` · `SSE` · `RBAC` · `OAuth 2.0` · `CI/CD`
 
-DATA / CLOUD ..... PostgreSQL, MongoDB, Prisma, Mongoose, Redis,
-                  AWS, Vercel, Render, Cloudflare R2, Cloudinary
-
-PRODUCT .......... Data modelling, RBAC, OAuth 2.0, JWT, Stripe,
-                  rate limiting, Vitest, CI/CD, deployment
-```
-
-## `~/builds`  // selected systems
-
-```text
-[01] SHOPMATE
-     conversational shopping assistant
-     Kotlin + Jetpack Compose / Node + TypeScript / PostgreSQL
-     Qdrant + RAG / LLM + SSE / Render
-     grounded recommendations, comparisons, cart actions, checkout flow
-```
-
-[View source](https://github.com/Sheldon715/shopmate)
-
-```text
-[02] DEVSTASH
-     developer knowledge workspace
-     Next.js 15 / React 19 / TypeScript / Prisma / Neon PostgreSQL
-     Auth.js + RBAC / Stripe / Cloudflare R2 / Upstash Redis
-     AI-assisted tagging, summaries, and code explanations
-```
-
-[Open product](https://devstashapp.vercel.app/) · [View source](https://github.com/Sheldon715/devstash)
-
-```text
-[03] PROPERTYPULSE
-     end-to-end property platform
-     Next.js / React / MongoDB / Google OAuth / Cloudinary / MapTiler
-     discovery, search, property detail, and authenticated management
-```
-
-[Open product](https://property-pulse-app-snowy.vercel.app/) · [View source](https://github.com/Sheldon715/property-pulse-app)
-
-```text
-[04] TASKFLOW
-     per-user task manager
-     React + Vite / Express REST API / PostgreSQL / JWT / Vercel
-     protected routes, filtering, and drag-and-drop prioritisation
-```
-
-[Open demo](https://todo-app-frontend-topaz-rho.vercel.app/) · [View source](https://github.com/Sheldon715/Todo-app)
-
-## `~/experience`  // current build
+## `~/upstream`  // current build
 
 ```text
 [GROUND ZERO]
-  role       Full-stack engineering intern
+  role       full-stack engineering intern
   product    Flutter / AI product
   surface    conversation UI, message states, inputs, attachments
   backend    Supabase, PostgreSQL, RLS, Edge Functions
-  direction  onboarding guidance, content suggestions, user discovery,
-             job generation, and an evidence-based evaluation loop
+  direction  grounded onboarding guidance, content suggestions,
+             user discovery, job generation, and measurable feedback
 ```
-
-## `~/signal`  // links
-
-```text
-  github     github.com/Sheldon715
-  linkedin   linkedin.com/in/sheldon-liu-b01bb323/
-  email      lxd040715@gmail.com
-  resume     sheldon715.github.io/assets/Sheldon-Liu-Resume.pdf
-  website    sheldon715.github.io
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f14?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/sheldon-liu-b01bb323/) [![Website](https://img.shields.io/badge/Website-0b0f14?style=flat-square&logo=google-chrome&logoColor=58a6ff)](https://sheldon715.github.io/) [![Resume](https://img.shields.io/badge/Resume-0b0f14?style=flat-square&logo=adobe-acrobat-reader&logoColor=58a6ff)](https://sheldon715.github.io/assets/Sheldon-Liu-Resume.pdf)
 
 ## `~/telemetry`
 
-![Sheldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheldon715&show_icons=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&bg_color=0b0f14&cache_seconds=86400)
+![Contribution snake](https://raw.githubusercontent.com/Sheldon715/Sheldon715/gh-pages/github-contribution-grid-snake-dark.svg?v=2)
 
-![Contribution snake](https://raw.githubusercontent.com/Sheldon715/Sheldon715/gh-pages/github-contribution-grid-snake-dark.svg)
-
-```text
-sheldon715@localhost:~$ echo "build useful software"
-build useful software
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sheldon715/Sheldon715/main/footer.svg?v=2" alt="COLORS ALLOCATED: 2, EMOJI: NONE, PERSONAL DATA: MINIMAL" width="100%" />
+</p>

@@ -1,0 +1,11 @@
+<svg width="900" height="72" viewBox="0 0 900 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rotating engineering signal</title>
+  <desc id="desc">A short animated set of engineering statements.</desc>
+  <rect width="900" height="72" fill="#0B0F14"/>
+  <g fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" text-anchor="middle">
+    <text x="450" y="45">the work speaks, not the resume<animate attributeName="opacity" values="0;1;1;0" dur="12s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="450" y="45">building products, not demos<animate attributeName="opacity" values="0;1;1;0" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+    <text x="450" y="45">grounded AI, useful software<animate attributeName="opacity" values="0;1;1;0" dur="12s" begin="6s" repeatCount="indefinite"/></text>
+    <text x="450" y="45">from interface to infrastructure<animate attributeName="opacity" values="0;1;1;0" dur="12s" begin="9s" repeatCount="indefinite"/></text>
+  </g>
+</svg>

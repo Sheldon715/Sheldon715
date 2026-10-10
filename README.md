@@ -66,6 +66,20 @@ sheldon715@localhost:~$ whoami
 
 <br />
 
+## `~/companion` &nbsp;// &nbsp;visitor system
+
+<div align="center">
+
+<a href="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/pet"><img src="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/blip.svg" width="820" alt="Sheldon715 profile companion with visitor counters" /></a>
+
+<br />
+
+<a href="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/treat"><img src="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/btn-cookie.svg" width="260" alt="Give the profile companion a cookie" /></a> <a href="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/pet"><img src="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/btn-pet.svg" width="260" alt="Pet the profile companion" /></a> <a href="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/play"><img src="https://sheldon715-pet.sheldon715-pet-worker.workers.dev/globe/btn-play.svg" width="260" alt="Play with the profile companion" /></a>
+
+</div>
+
+<br />
+
 ## `~/telemetry`
 
 <div align="center">

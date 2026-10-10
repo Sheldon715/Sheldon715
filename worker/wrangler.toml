@@ -1,0 +1,12 @@
+name = "sheldon715-pet"
+main = "src/index.js"
+compatibility_date = "2026-10-10"
+workers_dev = true
+
+[[durable_objects.bindings]]
+name = "COUNTER"
+class_name = "Counter"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Counter"]
